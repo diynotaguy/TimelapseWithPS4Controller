@@ -2,6 +2,7 @@ import requests                                          #to get the pictures fr
 import pygame                                            #to recieve inputs from the controller
 import time                                              #to determine which pictures to save
 
+# saldfijasldfijasdilf
 
 #General variables
 UpperThreshold = 25                                      #in seconds
